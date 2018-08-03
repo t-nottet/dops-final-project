@@ -81,5 +81,3 @@ web_1  |
 web_1  |
 dopsfinalproject_web_1 exited with code 0
 ```
-
-Update readme to start.
